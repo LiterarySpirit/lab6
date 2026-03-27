@@ -1,6 +1,8 @@
 public class HelloWorld {
     public static String message() {
-        return "Hello to the actual Main";
+
+        return "Hello to both main and branch";
+
     }
 
     public static void main(String[] args) {
